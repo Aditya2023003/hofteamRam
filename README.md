@@ -7,10 +7,14 @@ Yoga is a popular form of exercise and relaxation practiced by millions worldwid
 
 # Technologies Used:
 TensorFlow.js: A JavaScript library for training and deploying machine learning models in the browser and on Node.js.
+
 PoseNet: A pre-trained deep learning model that can estimate human pose in real-time with a single camera input.
+
 HTML/CSS: For creating the user interface of the web application.
+
 JavaScript: For implementing the machine learning model, handling real-time video input, and displaying the results.
-Project Steps:
+
+#Project Steps:
 Data Collection:
 
 Gather a dataset of images containing various yoga poses. Ensure diversity in yoga poses, backgrounds, lighting conditions, and body types.
