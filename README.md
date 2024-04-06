@@ -1,8 +1,8 @@
-## hofteamRam
+#Team Ram
 correct your Yoga posture using machine learning 
 
 
-# introduction:
+## introduction:
 Yoga is a popular form of exercise and relaxation practiced by millions worldwide. Detecting yoga poses automatically using machine learning can be beneficial for practitioners to ensure correct posture and alignment. In this project, we aim to develop a web application that uses machine learning techniques to detect and classify yoga poses in real-time using JavaScript.
 
 # Technologies Used:
@@ -14,14 +14,14 @@ HTML/CSS: For creating the user interface of the web application.
 
 JavaScript: For implementing the machine learning model, handling real-time video input, and displaying the results.
 
-#Project Steps:
+## Project Steps:
 Data Collection:
 
 Gather a dataset of images containing various yoga poses. Ensure diversity in yoga poses, backgrounds, lighting conditions, and body types.
 Annotate the dataset with labels corresponding to different yoga poses.
 Model Training:
 
-Preprocess the dataset and split it into training and testing sets.
+## Preprocess the dataset and split it into training and testing sets.
 Use TensorFlow.js to build and train a machine learning model for pose detection. PoseNet is a popular choice for this task.
 Fine-tune the model as necessary to improve accuracy.
 Web Application Development:
