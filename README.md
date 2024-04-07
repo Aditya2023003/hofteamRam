@@ -47,3 +47,5 @@ Make improvements based on user feedback and performance evaluation results.
 Conclusion:
 In this project, we have demonstrated the development of a web application using machine learning and JavaScript to detect and classify yoga poses in real-time. This application can be a valuable tool for yoga practitioners to improve their posture and alignment, leading to a more effective and safe practice. With further refinement and optimization, such technology has the potential to enhance the yoga experience for practitioners of all levels.
 
+### video Demo Link : https://www.youtube.com/watch?v=pIDRLUfNZUE
+
