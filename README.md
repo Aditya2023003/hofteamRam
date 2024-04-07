@@ -1,5 +1,7 @@
-# Team Ram
+<img width="1440" alt="Screenshot 2024-04-07 at 1 53 03 AM" src="https://github.com/Aditya2023003/hofteamRam/assets/143504999/0ad7dec2-8733-4b6f-9d41-013cc1a9f22a"># Team Ram
 correct your Yoga posture using machine learning 
+
+<img width="1440" alt="Screenshot 2024-04-07 at 1 53 03 AM" src="https://github.com/Aditya2023003/hofteamRam/assets/143504999/8b625cbb-1ce9-40f7-9629-466ce27b08b0">
 
 
 ## introduction:
