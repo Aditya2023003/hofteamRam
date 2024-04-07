@@ -37,15 +37,21 @@ Display the detected poses overlaid on the video feed in real-time.
 User Interaction:
 
 Provide feedback to the user regarding the correctness of their yoga pose alignment.
-Highlight any discrepancies between the detected pose and the correct pose.
+Highlight the cautions and benefits
 Offer suggestions for adjustments to improve posture if necessary.
-Testing and Evaluation:
 
+
+Testing and Evaluation:
 Evaluate the performance of the model on the testing dataset.
 Conduct user testing to gather feedback on the accuracy and usability of the web application.
 Make improvements based on user feedback and performance evaluation results.
+
+
 Conclusion:
 In this project, we have demonstrated the development of a web application using machine learning and JavaScript to detect and classify yoga poses in real-time. This application can be a valuable tool for yoga practitioners to improve their posture and alignment, leading to a more effective and safe practice. With further refinement and optimization, such technology has the potential to enhance the yoga experience for practitioners of all levels.
 
-### video Demo Link : https://www.youtube.com/watch?v=pIDRLUfNZUE
+### Video Demo Link : https://www.youtube.com/watch?v=pIDRLUfNZUE
+### Contact details: project.zenflex@gmail.com
+
+
 
